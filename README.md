@@ -58,17 +58,17 @@ Esse é o meu espaço onde estou treinando para me tornar uma grande desenvolved
 ## 🚀 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=nayaradev27-eng&theme=tokyonight&hide_border=true&border_radius=15" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-AQUI&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayaradev27-eng&theme=tokyo-night&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU-USUARIO-AQUI&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayaradev27-eng&theme=tokyonight" />
 </div>
